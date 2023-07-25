@@ -69,6 +69,7 @@ Prints the list after each swap.
 Assumes that the array will only contain numbers >= 0.
 Prints the counting array after it has been initialized.
 102-O: Text file containing the best, average, and worst case time complexities of the Counting Sort algorithm, one per line.
+
 7. Merge sort
 
 103-merge_sort.c: C function that sorts an array of integers in ascending order using the Merge Sort algorithm.
@@ -103,8 +104,8 @@ Implements the Hoare partition scheme.
 Always uses the last elemement of the partition being sorted as the pivot.
 Prints the array after each swap.
 107-O: Text file containing the best, average, and worst case time complexities of the Quick Sort Hoare Partition cheme algorithm, one per line.
-12. Dealer
 
+12. Dealer
 1000-sort_deck.c: C function that sorts a deck_node_t doubly-linked list deck of cards.
 Assumes that there are exactly 52 elements in the doubly-linked list.
 Orders the deck from spades to diamonds and from aces to kings.
