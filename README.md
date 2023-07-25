@@ -1,9 +1,6 @@
-Sorting Algorithms
+![image](https://github.com/binabdool/sorting_algorithms/assets/121132708/c5df13d5-fb64-401f-8ba5-8292838c6fb5)
 
-
-
-
-Resources Read or watch:
+![image](https://github.com/binabdool/sorting_algorithms/assets/121132708/731be362-447e-4360-b43d-03b9050abc20)
 
 Sorting algorithm
 Big O notation
