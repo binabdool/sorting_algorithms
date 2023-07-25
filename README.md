@@ -3,6 +3,8 @@
 ![image](https://github.com/binabdool/sorting_algorithms/assets/121132708/731be362-447e-4360-b43d-03b9050abc20)
 
 Sorting algorithm
+
+   
 Big O notation
 Sorting algorithms animations
 15 sorting algorithms in 6 minutes (WARNING: The following video can trigger seizure/epilepsy. It is not required for the project, as it is only a funny visualization of different sorting algorithms)
